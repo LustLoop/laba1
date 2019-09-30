@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Lab1chmvi/1.0.0": {
+        "dependencies": {
+          "MathParser": "1.0.2063.35716"
+        },
+        "runtime": {
+          "Lab1chmvi.dll": {}
+        }
+      },
+      "MathParser/1.0.2063.35716": {
+        "runtime": {
+          "MathParser.dll": {
+            "assemblyVersion": "1.0.2063.35716",
+            "fileVersion": "1.0.2063.35716"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1chmvi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathParser/1.0.2063.35716": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
